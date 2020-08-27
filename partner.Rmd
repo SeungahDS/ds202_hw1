@@ -1,0 +1,12 @@
+---
+title: "partner.Rmd"
+output: html_document
+---
+
+Kedell Guevara - kgtheds
+
+In most recent commit, she added hw1.html and hw1.Rmd. Commit ID: 1be446d
+
+Knit hw1 without error
+
+No difficulty.
